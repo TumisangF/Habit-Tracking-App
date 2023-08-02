@@ -8,7 +8,7 @@ The Habit Tracking Application is a command-line tool designed to help users man
 Clone the repository to a computer locally.
 
 ```bash
-git clone https://github.com/TumisangF/Habit-Tracking-Application.git
+git clone https://github.com/TumisangF/Habit-Tracking-App.git
 ```
 Navigate to the habit tracker directory.
 ```bash
