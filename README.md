@@ -12,7 +12,7 @@ git clone https://github.com/TumisangF/Habit-Tracking-Application.git
 ```
 Navigate to the habit tracker directory.
 ```bash
-cd habit-tracker
+cd Habit-Tracking-Application
 ```
 
 ## Usage
